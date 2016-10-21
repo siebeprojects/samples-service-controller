@@ -19,6 +19,7 @@
 
     <!-- Define the application -->
     <application
+        android:icon="@drawable/icon"
         android:label="@string/app_name">
 
         <activity
